@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		073D54A0272725150083CC94 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 073D549F272725150083CC94 /* main.cpp */; };
+		073D54A7272729140083CC94 /* 장애물인식프로그램_409.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 073D54A6272729140083CC94 /* 장애물인식프로그램_409.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		073D549C272725150083CC94 /* SofteerAlgorithmPS */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SofteerAlgorithmPS; sourceTree = BUILT_PRODUCTS_DIR; };
 		073D549F272725150083CC94 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		073D54A6272729140083CC94 /* 장애물인식프로그램_409.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "장애물인식프로그램_409.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				073D549F272725150083CC94 /* main.cpp */,
+				073D54A6272729140083CC94 /* 장애물인식프로그램_409.cpp */,
 			);
 			path = SofteerAlgorithmPS;
 			sourceTree = "<group>";
@@ -119,6 +122,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				073D54A0272725150083CC94 /* main.cpp in Sources */,
+				073D54A7272729140083CC94 /* 장애물인식프로그램_409.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
